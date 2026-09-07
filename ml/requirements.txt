@@ -1,6 +1,6 @@
 torch>=2.2
 torchvision>=0.17
-mediapipe>=0.10.14
+mediapipe>=0.10.21
 opencv-python>=4.9
 numpy>=1.26
 pandas>=2.2
