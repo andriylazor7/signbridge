@@ -1,0 +1,7093 @@
+[
+  {
+    "video_id": "69422",
+    "gloss": "orange",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "10898",
+    "gloss": "city",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "10893",
+    "gloss": "city",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "10892",
+    "gloss": "city",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 203
+  },
+  {
+    "video_id": "10895",
+    "gloss": "city",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 108
+  },
+  {
+    "video_id": "10894",
+    "gloss": "city",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "51068",
+    "gloss": "shirt",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "51064",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "51067",
+    "gloss": "shirt",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "51066",
+    "gloss": "shirt",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "51061",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "51060",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "66779",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "66778",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "65278",
+    "gloss": "but",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "43180",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "06365",
+    "gloss": "birthday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "69395",
+    "gloss": "man",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "69396",
+    "gloss": "many",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "57291",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "69370",
+    "gloss": "how",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "56839",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "56838",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "56837",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "06335",
+    "gloss": "bird",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 94
+  },
+  {
+    "video_id": "06334",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 20
+  },
+  {
+    "video_id": "06337",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "06331",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "06330",
+    "gloss": "bird",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 91
+  },
+  {
+    "video_id": "06333",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "06332",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "11768",
+    "gloss": "color",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "11769",
+    "gloss": "color",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "11767",
+    "gloss": "color",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "30849",
+    "gloss": "jacket",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "64292",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "64293",
+    "gloss": "yes",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "64291",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "65504",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "65507",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "65506",
+    "gloss": "dog",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "65503",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "45443",
+    "gloss": "purple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "05734",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "05730",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "05731",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "05732",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "05733",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "05739",
+    "gloss": "before",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "05229",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "17724",
+    "gloss": "drink",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "17720",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "17721",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "17722",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "17723",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "14624",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "14625",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "26973",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "26972",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "26975",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "26976",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "14685",
+    "gloss": "dark",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "65029",
+    "gloss": "africa",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "63208",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "14680",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "63204",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "63207",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 21
+  },
+  {
+    "video_id": "63200",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 93
+  },
+  {
+    "video_id": "63201",
+    "gloss": "white",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "63202",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "63203",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "51063",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "62247",
+    "gloss": "want",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "62246",
+    "gloss": "want",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "62245",
+    "gloss": "want",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "62244",
+    "gloss": "want",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "62248",
+    "gloss": "want",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "08437",
+    "gloss": "but",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "07074",
+    "gloss": "book",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "07070",
+    "gloss": "book",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "26719",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "26713",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "26712",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "26715",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "26714",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "26717",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "07961",
+    "gloss": "brown",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "65889",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "65884",
+    "gloss": "hearing",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "15043",
+    "gloss": "decide",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "28214",
+    "gloss": "how",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "28210",
+    "gloss": "how",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 24
+  },
+  {
+    "video_id": "28211",
+    "gloss": "how",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "65084",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "65085",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "65086",
+    "gloss": "apple",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "66532",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "69413",
+    "gloss": "now",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "69411",
+    "gloss": "no",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "66769",
+    "gloss": "what",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "05243",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "65263",
+    "gloss": "brown",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "02003",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "39006",
+    "gloss": "now",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "39000",
+    "gloss": "now",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "69343",
+    "gloss": "give",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "69345",
+    "gloss": "go",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "49173",
+    "gloss": "same",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "49176",
+    "gloss": "same",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "49174",
+    "gloss": "same",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "49175",
+    "gloss": "same",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "42843",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "49178",
+    "gloss": "same",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "05741",
+    "gloss": "before",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "05740",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "05743",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "05742",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 25
+  },
+  {
+    "video_id": "05749",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "10158",
+    "gloss": "cheat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "36946",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "13199",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "13198",
+    "gloss": "cool",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "14894",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "14893",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "13196",
+    "gloss": "cool",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "45273",
+    "gloss": "pull",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "06476",
+    "gloss": "black",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "62259",
+    "gloss": "want",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "62250",
+    "gloss": "want",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "62251",
+    "gloss": "want",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "07068",
+    "gloss": "book",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "07069",
+    "gloss": "book",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "40847",
+    "gloss": "paint",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "31755",
+    "gloss": "kiss",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "31756",
+    "gloss": "kiss",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "31751",
+    "gloss": "kiss",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "31750",
+    "gloss": "kiss",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "31753",
+    "gloss": "kiss",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "31752",
+    "gloss": "kiss",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "66575",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "06486",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 94
+  },
+  {
+    "video_id": "69402",
+    "gloss": "mother",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "66799",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "66798",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "05644",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "65216",
+    "gloss": "blue",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "35458",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "35452",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 106
+  },
+  {
+    "video_id": "35453",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "35456",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 100
+  },
+  {
+    "video_id": "65187",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "35455",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 103
+  },
+  {
+    "video_id": "32250",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "32253",
+    "gloss": "last",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "32255",
+    "gloss": "last",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 25
+  },
+  {
+    "video_id": "32254",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "32257",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "65677",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "01387",
+    "gloss": "africa",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "56852",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "69359",
+    "gloss": "hat",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "57278",
+    "gloss": "tell",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "24955",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "24954",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "24956",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "65328",
+    "gloss": "chair",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "24952",
+    "gloss": "go",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "55365",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "55362",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 93
+  },
+  {
+    "video_id": "69439",
+    "gloss": "pull",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 101
+  },
+  {
+    "video_id": "05750",
+    "gloss": "before",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 85
+  },
+  {
+    "video_id": "10166",
+    "gloss": "cheat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "14888",
+    "gloss": "deaf",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "14882",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "14883",
+    "gloss": "deaf",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 22
+  },
+  {
+    "video_id": "14884",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "14885",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "14886",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "14887",
+    "gloss": "deaf",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "45262",
+    "gloss": "pull",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "45263",
+    "gloss": "pull",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "45261",
+    "gloss": "pull",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "45267",
+    "gloss": "pull",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "45264",
+    "gloss": "pull",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "45265",
+    "gloss": "pull",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "09851",
+    "gloss": "chair",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "09850",
+    "gloss": "chair",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "09854",
+    "gloss": "chair",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "40835",
+    "gloss": "paint",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "48126",
+    "gloss": "right",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "48124",
+    "gloss": "right",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "10147",
+    "gloss": "cheat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "10148",
+    "gloss": "cheat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "26739",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "32263",
+    "gloss": "last",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "31749",
+    "gloss": "kiss",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "66146",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "66147",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "42832",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "42833",
+    "gloss": "pink",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "42830",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "42831",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "66097",
+    "gloss": "man",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "42836",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "66098",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "66099",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "06832",
+    "gloss": "blue",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "06833",
+    "gloss": "blue",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "06834",
+    "gloss": "blue",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "06835",
+    "gloss": "blue",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "06839",
+    "gloss": "blue",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "65996",
+    "gloss": "kiss",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "51056",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "51057",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 85
+  },
+  {
+    "video_id": "51058",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "51059",
+    "gloss": "shirt",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 98
+  },
+  {
+    "video_id": "50052",
+    "gloss": "secretary",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "35467",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "65200",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "65192",
+    "gloss": "birthday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "32246",
+    "gloss": "last",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 97
+  },
+  {
+    "video_id": "32248",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "32249",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "65843",
+    "gloss": "graduate",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "65440",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "56843",
+    "gloss": "tall",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "56840",
+    "gloss": "tall",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "56841",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "65445",
+    "gloss": "deaf",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "56844",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 93
+  },
+  {
+    "video_id": "24946",
+    "gloss": "go",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "24947",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "56848",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "69325",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "24943",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "24940",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 88
+  },
+  {
+    "video_id": "24941",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "38990",
+    "gloss": "now",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "38991",
+    "gloss": "now",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "38994",
+    "gloss": "now",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "38995",
+    "gloss": "now",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "38997",
+    "gloss": "now",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "38999",
+    "gloss": "now",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "57647",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "57641",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "69213",
+    "gloss": "apple",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "26971",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 101
+  },
+  {
+    "video_id": "14627",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "63679",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "63673",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "26974",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "14622",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "14623",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 88
+  },
+  {
+    "video_id": "27216",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "63789",
+    "gloss": "work",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "63788",
+    "gloss": "work",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 132
+  },
+  {
+    "video_id": "42956",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "42959",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 88
+  },
+  {
+    "video_id": "42958",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "48114",
+    "gloss": "right",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "14676",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "09848",
+    "gloss": "chair",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 96
+  },
+  {
+    "video_id": "09849",
+    "gloss": "chair",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "14673",
+    "gloss": "dark",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "14672",
+    "gloss": "dark",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "14671",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "57935",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "57934",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "57937",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "57936",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "57933",
+    "gloss": "thin",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "57939",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "63205",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "08426",
+    "gloss": "but",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "08425",
+    "gloss": "but",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 24
+  },
+  {
+    "video_id": "08424",
+    "gloss": "but",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "40840",
+    "gloss": "paint",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "08429",
+    "gloss": "but",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "15038",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "15032",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "15033",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "15037",
+    "gloss": "decide",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "15034",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "15035",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "08935",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "08937",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "08936",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "08938",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "50044",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "50046",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "50040",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "50041",
+    "gloss": "secretary",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 98
+  },
+  {
+    "video_id": "24961",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "13647",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "13646",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "13642",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "13641",
+    "gloss": "cousin",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "13640",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "57634",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "13648",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "57630",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "57631",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "65300",
+    "gloss": "candy",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "24973",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "08431",
+    "gloss": "but",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "06371",
+    "gloss": "birthday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "21891",
+    "gloss": "fine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "21890",
+    "gloss": "fine",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "27221",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "69206",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "21874",
+    "gloss": "fine",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "21871",
+    "gloss": "fine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "21870",
+    "gloss": "fine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "21872",
+    "gloss": "fine",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "21878",
+    "gloss": "fine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "63668",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "63669",
+    "gloss": "woman",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "63666",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "63667",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "63664",
+    "gloss": "woman",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 103
+  },
+  {
+    "video_id": "63665",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "43167",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "43166",
+    "gloss": "play",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "43169",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "43168",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "49183",
+    "gloss": "same",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "49182",
+    "gloss": "same",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "49181",
+    "gloss": "same",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "38544",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "49188",
+    "gloss": "same",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "64300",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "63799",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "63792",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "63793",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "63790",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "63791",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "63795",
+    "gloss": "work",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "48106",
+    "gloss": "right",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "48107",
+    "gloss": "right",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "48108",
+    "gloss": "right",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "48109",
+    "gloss": "right",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "63242",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "58499",
+    "gloss": "time",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "58498",
+    "gloss": "time",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "22130",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "58361",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "58360",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "58363",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "58362",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "58497",
+    "gloss": "time",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 97
+  },
+  {
+    "video_id": "58366",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "69269",
+    "gloss": "city",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "31767",
+    "gloss": "kiss",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 93
+  },
+  {
+    "video_id": "14681",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "65299",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "65298",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "07963",
+    "gloss": "brown",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "07962",
+    "gloss": "brown",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "07960",
+    "gloss": "brown",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "07966",
+    "gloss": "brown",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "11330",
+    "gloss": "clothes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "08924",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 25
+  },
+  {
+    "video_id": "08925",
+    "gloss": "candy",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "08920",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "08921",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "08929",
+    "gloss": "candy",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "50039",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "50038",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "50037",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 101
+  },
+  {
+    "video_id": "56842",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "66183",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "56846",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "69524",
+    "gloss": "want",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "24638",
+    "gloss": "give",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "24639",
+    "gloss": "give",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 21
+  },
+  {
+    "video_id": "65043",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "32260",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "32261",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "24636",
+    "gloss": "give",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "17709",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 105
+  },
+  {
+    "video_id": "65824",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "19257",
+    "gloss": "enjoy",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "19258",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "19259",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "06363",
+    "gloss": "birthday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "06360",
+    "gloss": "birthday",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "21883",
+    "gloss": "fine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "27213",
+    "gloss": "help",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "69238",
+    "gloss": "blue",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "27217",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "27215",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "27214",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "69233",
+    "gloss": "bird",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "69236",
+    "gloss": "black",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "10149",
+    "gloss": "cheat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "21869",
+    "gloss": "fine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "45438",
+    "gloss": "purple",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "45436",
+    "gloss": "purple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "45435",
+    "gloss": "purple",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "45434",
+    "gloss": "purple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "45433",
+    "gloss": "purple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "69307",
+    "gloss": "eat",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "24960",
+    "gloss": "go",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "69302",
+    "gloss": "drink",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "24962",
+    "gloss": "go",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "43174",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "43170",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "43173",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "17083",
+    "gloss": "dog",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "17085",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "17084",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "17087",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "17086",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "42977",
+    "gloss": "pizza",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "09869",
+    "gloss": "chair",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "57640",
+    "gloss": "thanksgiving",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "64209",
+    "gloss": "year",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "12316",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "12317",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "12314",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "12315",
+    "gloss": "computer",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "12312",
+    "gloss": "computer",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 86
+  },
+  {
+    "video_id": "12313",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "12311",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "12318",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "12319",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "58370",
+    "gloss": "thursday",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "40130",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "26980",
+    "gloss": "hearing",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "63227",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "07973",
+    "gloss": "brown",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "63225",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 94
+  },
+  {
+    "video_id": "65539",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "66592",
+    "gloss": "tall",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "66591",
+    "gloss": "tall",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "08917",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "08916",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "08915",
+    "gloss": "candy",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "08919",
+    "gloss": "candy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "08918",
+    "gloss": "candy",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "66441",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "13161",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "66112",
+    "gloss": "meet",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "66111",
+    "gloss": "medicine",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "63672",
+    "gloss": "woman",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "65145",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "65144",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "69531",
+    "gloss": "what",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "69533",
+    "gloss": "white",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "69534",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "28115",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "28116",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "28111",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "28110",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "28112",
+    "gloss": "hot",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "24641",
+    "gloss": "give",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "24640",
+    "gloss": "give",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "19261",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "19260",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "19264",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "19269",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "11780",
+    "gloss": "color",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "06359",
+    "gloss": "birthday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "69225",
+    "gloss": "basketball",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "27208",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "27209",
+    "gloss": "help",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "27206",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "27207",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "65761",
+    "gloss": "forget",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "32946",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "69316",
+    "gloss": "family",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "17090",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "17091",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "17097",
+    "gloss": "dog",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "42960",
+    "gloss": "pizza",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "42961",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "42962",
+    "gloss": "pizza",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "42966",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "42967",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "64212",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "64213",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "64210",
+    "gloss": "year",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "64211",
+    "gloss": "year",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "64218",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "64219",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 24
+  },
+  {
+    "video_id": "55366",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "12320",
+    "gloss": "computer",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "12327",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "12326",
+    "gloss": "computer",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "12328",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "55364",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "40121",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "40129",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "03005",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "03000",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 89
+  },
+  {
+    "video_id": "03001",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "03002",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "03003",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 108
+  },
+  {
+    "video_id": "03008",
+    "gloss": "apple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "18329",
+    "gloss": "eat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "18323",
+    "gloss": "eat",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "18325",
+    "gloss": "eat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "18324",
+    "gloss": "eat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "62170",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "62175",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "37886",
+    "gloss": "need",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "37883",
+    "gloss": "need",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "37882",
+    "gloss": "need",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "37881",
+    "gloss": "need",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 103
+  },
+  {
+    "video_id": "02999",
+    "gloss": "apple",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "11313",
+    "gloss": "clothes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "11311",
+    "gloss": "clothes",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "11310",
+    "gloss": "clothes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "48115",
+    "gloss": "right",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "28107",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "24651",
+    "gloss": "give",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 25
+  },
+  {
+    "video_id": "14675",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "28108",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "28109",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "14674",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "06343",
+    "gloss": "bird",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "69252",
+    "gloss": "brown",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "69257",
+    "gloss": "can",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "65792",
+    "gloss": "full",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "32158",
+    "gloss": "language",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "32156",
+    "gloss": "language",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "32157",
+    "gloss": "language",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "32154",
+    "gloss": "language",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "32155",
+    "gloss": "language",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "49606",
+    "gloss": "school",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "49600",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "49602",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "13333",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "13337",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "13334",
+    "gloss": "corn",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "05638",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "64224",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "05634",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 88
+  },
+  {
+    "video_id": "05637",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "05636",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "05631",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 25
+  },
+  {
+    "video_id": "05630",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "05633",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "05632",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "13203",
+    "gloss": "cool",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "13202",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "13201",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "13200",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 24
+  },
+  {
+    "video_id": "13209",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "13208",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "12338",
+    "gloss": "computer",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 91
+  },
+  {
+    "video_id": "36929",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "33285",
+    "gloss": "like",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "33286",
+    "gloss": "like",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "40119",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "40118",
+    "gloss": "orange",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "40117",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "40116",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "40115",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "18335",
+    "gloss": "eat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "62168",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "62169",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "62163",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "62160",
+    "gloss": "walk",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "62164",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "37894",
+    "gloss": "need",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "40836",
+    "gloss": "paint",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "66008",
+    "gloss": "language",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "66007",
+    "gloss": "language",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "11309",
+    "gloss": "clothes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "66469",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "65163",
+    "gloss": "bed",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "65162",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "65161",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "65167",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "01987",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "01986",
+    "gloss": "all",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "01988",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 122
+  },
+  {
+    "video_id": "32945",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "32947",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "24660",
+    "gloss": "give",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "32949",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "32948",
+    "gloss": "letter",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "35523",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "69241",
+    "gloss": "book",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "32167",
+    "gloss": "language",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "32163",
+    "gloss": "language",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "32160",
+    "gloss": "language",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 98
+  },
+  {
+    "video_id": "10904",
+    "gloss": "city",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "65342",
+    "gloss": "cheat",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "65341",
+    "gloss": "cheat",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "21945",
+    "gloss": "finish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "21944",
+    "gloss": "finish",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "21941",
+    "gloss": "finish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "21943",
+    "gloss": "finish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "21942",
+    "gloss": "finish",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "21949",
+    "gloss": "finish",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "13325",
+    "gloss": "corn",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "13326",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "13327",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "13323",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "13328",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "13329",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "53269",
+    "gloss": "son",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "69431",
+    "gloss": "pizza",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "69433",
+    "gloss": "play",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "13213",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "13216",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "13217",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "22967",
+    "gloss": "forget",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "22960",
+    "gloss": "forget",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "62975",
+    "gloss": "what",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "36930",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "36931",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "36932",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "36933",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "36936",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "36937",
+    "gloss": "mother",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "53268",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "10151",
+    "gloss": "cheat",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "56556",
+    "gloss": "table",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "56557",
+    "gloss": "table",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "10157",
+    "gloss": "cheat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "24649",
+    "gloss": "give",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "24648",
+    "gloss": "give",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "10159",
+    "gloss": "cheat",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "62159",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "62158",
+    "gloss": "walk",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "05629",
+    "gloss": "bed",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "30833",
+    "gloss": "jacket",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "30832",
+    "gloss": "jacket",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "30831",
+    "gloss": "jacket",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "30835",
+    "gloss": "jacket",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "30834",
+    "gloss": "jacket",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "09967",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "09966",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "09960",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "09963",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "40841",
+    "gloss": "paint",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "65363",
+    "gloss": "city",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "65362",
+    "gloss": "city",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "23769",
+    "gloss": "full",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 86
+  },
+  {
+    "video_id": "23768",
+    "gloss": "full",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "23767",
+    "gloss": "full",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "23766",
+    "gloss": "full",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "66010",
+    "gloss": "last",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "66014",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "66015",
+    "gloss": "later",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "13695",
+    "gloss": "cow",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "13696",
+    "gloss": "cow",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "13697",
+    "gloss": "cow",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "13197",
+    "gloss": "cool",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "13698",
+    "gloss": "cow",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "13699",
+    "gloss": "cow",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "01991",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "01992",
+    "gloss": "all",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "34738",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 131
+  },
+  {
+    "video_id": "34734",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "34736",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "34737",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "43179",
+    "gloss": "play",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "34732",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "34733",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "32950",
+    "gloss": "letter",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "32954",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "62970",
+    "gloss": "what",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "32959",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "65009",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "28125",
+    "gloss": "hot",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "25321",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "25323",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "25322",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "25325",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "25324",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "25326",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "25329",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "35513",
+    "gloss": "meet",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 90
+  },
+  {
+    "video_id": "62979",
+    "gloss": "what",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "35511",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "35517",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "35516",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "35518",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "13630",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 90
+  },
+  {
+    "video_id": "23782",
+    "gloss": "full",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "69274",
+    "gloss": "color",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "69290",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "69298",
+    "gloss": "dog",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "21950",
+    "gloss": "finish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "21951",
+    "gloss": "finish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "53279",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "57286",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "53273",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "53270",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "53271",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "43171",
+    "gloss": "play",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "53274",
+    "gloss": "son",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "53275",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "00625",
+    "gloss": "accident",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "00624",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 93
+  },
+  {
+    "video_id": "00627",
+    "gloss": "accident",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "00626",
+    "gloss": "accident",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "00623",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 104
+  },
+  {
+    "video_id": "22953",
+    "gloss": "forget",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "22952",
+    "gloss": "forget",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "00629",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 126
+  },
+  {
+    "video_id": "00628",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "22955",
+    "gloss": "forget",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "22954",
+    "gloss": "forget",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "62966",
+    "gloss": "what",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "62967",
+    "gloss": "what",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "62964",
+    "gloss": "what",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "62965",
+    "gloss": "what",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "62968",
+    "gloss": "what",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "14903",
+    "gloss": "deaf",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "57953",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "20979",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "20978",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 105
+  },
+  {
+    "video_id": "01388",
+    "gloss": "africa",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 104
+  },
+  {
+    "video_id": "01385",
+    "gloss": "africa",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "01384",
+    "gloss": "africa",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "01386",
+    "gloss": "africa",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "01383",
+    "gloss": "africa",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 124
+  },
+  {
+    "video_id": "66640",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "66644",
+    "gloss": "time",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "09970",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "66246",
+    "gloss": "orange",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "66804",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "23771",
+    "gloss": "full",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "23774",
+    "gloss": "full",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "23775",
+    "gloss": "full",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "23776",
+    "gloss": "full",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "08955",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "34742",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "34746",
+    "gloss": "man",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "25330",
+    "gloss": "graduate",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "25339",
+    "gloss": "graduate",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "35509",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "56563",
+    "gloss": "table",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "65294",
+    "gloss": "can",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "51223",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "51221",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 85
+  },
+  {
+    "video_id": "51220",
+    "gloss": "short",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "51227",
+    "gloss": "short",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "51226",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "51225",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "51224",
+    "gloss": "short",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "69282",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "69283",
+    "gloss": "cow",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "69281",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "50045",
+    "gloss": "secretary",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "65721",
+    "gloss": "finish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "65635",
+    "gloss": "enjoy",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "65434",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "65439",
+    "gloss": "dark",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "63806",
+    "gloss": "work",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "00634",
+    "gloss": "accident",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "00632",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "00633",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "00631",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "06478",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "00639",
+    "gloss": "accident",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 89
+  },
+  {
+    "video_id": "57940",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "57941",
+    "gloss": "thin",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "57942",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "57943",
+    "gloss": "thin",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 101
+  },
+  {
+    "video_id": "57947",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "57948",
+    "gloss": "thin",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "57949",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "06471",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "42969",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "13168",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "13160",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "13167",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "51235",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "69511",
+    "gloss": "time",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "51231",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "40834",
+    "gloss": "paint",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "51232",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "01398",
+    "gloss": "africa",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "40837",
+    "gloss": "paint",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "01391",
+    "gloss": "africa",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "09949",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "07389",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "07388",
+    "gloss": "bowling",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "66816",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "66818",
+    "gloss": "year",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "08942",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "08944",
+    "gloss": "can",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "42829",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 70
+  },
+  {
+    "video_id": "05238",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "05728",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "05231",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "05233",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 101
+  },
+  {
+    "video_id": "05232",
+    "gloss": "basketball",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "66038",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "55375",
+    "gloss": "study",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "65601",
+    "gloss": "eat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "06472",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "06473",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "22120",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "22121",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 43
+  },
+  {
+    "video_id": "06477",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 21
+  },
+  {
+    "video_id": "06474",
+    "gloss": "black",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "51236",
+    "gloss": "short",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "51233",
+    "gloss": "short",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "56579",
+    "gloss": "table",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "64090",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "69455",
+    "gloss": "school",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "64091",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "65731",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "57629",
+    "gloss": "thanksgiving",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "57628",
+    "gloss": "thanksgiving",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 203
+  },
+  {
+    "video_id": "64088",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "64087",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "64086",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "64085",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "64084",
+    "gloss": "wrong",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "37884",
+    "gloss": "need",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "17711",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "17710",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 60
+  },
+  {
+    "video_id": "17713",
+    "gloss": "drink",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "17712",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "34831",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "34830",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 26
+  },
+  {
+    "video_id": "13157",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "13156",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 85
+  },
+  {
+    "video_id": "13155",
+    "gloss": "cook",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 105
+  },
+  {
+    "video_id": "13158",
+    "gloss": "cook",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "20992",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "33267",
+    "gloss": "like",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "33266",
+    "gloss": "like",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "33269",
+    "gloss": "like",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "33268",
+    "gloss": "like",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "63236",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "63231",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "63230",
+    "gloss": "who",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "63232",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 132
+  },
+  {
+    "video_id": "30840",
+    "gloss": "jacket",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "09954",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "09955",
+    "gloss": "change",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "09956",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "09957",
+    "gloss": "change",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 84
+  },
+  {
+    "video_id": "09950",
+    "gloss": "change",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "09953",
+    "gloss": "change",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "66531",
+    "gloss": "son",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "66820",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "65540",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "26741",
+    "gloss": "hat",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "07394",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "07397",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "07390",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "07391",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "07392",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "07393",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "07398",
+    "gloss": "bowling",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "07399",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "22117",
+    "gloss": "fish",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "22116",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 31
+  },
+  {
+    "video_id": "22115",
+    "gloss": "fish",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 53
+  },
+  {
+    "video_id": "22114",
+    "gloss": "fish",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 86
+  },
+  {
+    "video_id": "22113",
+    "gloss": "fish",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "55363",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "55361",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 154
+  },
+  {
+    "video_id": "55368",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "55369",
+    "gloss": "study",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 86
+  },
+  {
+    "video_id": "69440",
+    "gloss": "purple",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "13710",
+    "gloss": "cow",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "07400",
+    "gloss": "bowling",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "51081",
+    "gloss": "shirt",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "32953",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 29
+  },
+  {
+    "video_id": "65449",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "32321",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 30
+  },
+  {
+    "video_id": "32320",
+    "gloss": "later",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "32323",
+    "gloss": "later",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "32322",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "32325",
+    "gloss": "later",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 103
+  },
+  {
+    "video_id": "32324",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 34
+  },
+  {
+    "video_id": "32326",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "32955",
+    "gloss": "letter",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 28
+  },
+  {
+    "video_id": "65415",
+    "gloss": "cousin",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "57638",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 50
+  },
+  {
+    "video_id": "57639",
+    "gloss": "thanksgiving",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "57635",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "57632",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 21
+  },
+  {
+    "video_id": "57633",
+    "gloss": "thanksgiving",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "64097",
+    "gloss": "wrong",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "17019",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 41
+  },
+  {
+    "video_id": "17013",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "17016",
+    "gloss": "doctor",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 89
+  },
+  {
+    "video_id": "17017",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "17014",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "17015",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 93
+  },
+  {
+    "video_id": "34823",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "34824",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "34825",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "34826",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "34827",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "38525",
+    "gloss": "no",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "38524",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "38527",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "38529",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 91
+  },
+  {
+    "video_id": "20986",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "20987",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "20982",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "20983",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "20980",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "20981",
+    "gloss": "family",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "33274",
+    "gloss": "like",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 27
+  },
+  {
+    "video_id": "33270",
+    "gloss": "like",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "33273",
+    "gloss": "like",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 32
+  },
+  {
+    "video_id": "63226",
+    "gloss": "who",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "35512",
+    "gloss": "meet",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "63228",
+    "gloss": "who",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "63229",
+    "gloss": "who",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "41037",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "41032",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "41030",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "35454",
+    "gloss": "medicine",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 89
+  },
+  {
+    "video_id": "66296",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  },
+  {
+    "video_id": "66297",
+    "gloss": "pizza",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "07099",
+    "gloss": "book",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "58503",
+    "gloss": "time",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 25
+  },
+  {
+    "video_id": "58502",
+    "gloss": "time",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 52
+  },
+  {
+    "video_id": "58508",
+    "gloss": "time",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "66637",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "66638",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "66639",
+    "gloss": "thursday",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "66742",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "66743",
+    "gloss": "walk",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "48105",
+    "gloss": "right",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 71
+  },
+  {
+    "video_id": "56558",
+    "gloss": "table",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "69430",
+    "gloss": "pink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "13702",
+    "gloss": "cow",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 44
+  },
+  {
+    "video_id": "13703",
+    "gloss": "cow",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "65242",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "34839",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "65241",
+    "gloss": "bowling",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "32338",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "32333",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "32337",
+    "gloss": "later",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 87
+  },
+  {
+    "video_id": "13636",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 112
+  },
+  {
+    "video_id": "13634",
+    "gloss": "cousin",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 82
+  },
+  {
+    "video_id": "13635",
+    "gloss": "cousin",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 90
+  },
+  {
+    "video_id": "13632",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "13633",
+    "gloss": "cousin",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "69389",
+    "gloss": "like",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 51
+  },
+  {
+    "video_id": "13631",
+    "gloss": "cousin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "65450",
+    "gloss": "decide",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 63
+  },
+  {
+    "video_id": "57276",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 94
+  },
+  {
+    "video_id": "57277",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 40
+  },
+  {
+    "video_id": "69546",
+    "gloss": "yes",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "57287",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "69364",
+    "gloss": "help",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 64
+  },
+  {
+    "video_id": "57285",
+    "gloss": "tell",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 37
+  },
+  {
+    "video_id": "57284",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "57283",
+    "gloss": "tell",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "57282",
+    "gloss": "tell",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "69368",
+    "gloss": "hot",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 49
+  },
+  {
+    "video_id": "66355",
+    "gloss": "purple",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "65408",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "65409",
+    "gloss": "corn",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 56
+  },
+  {
+    "video_id": "05239",
+    "gloss": "basketball",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 42
+  },
+  {
+    "video_id": "65402",
+    "gloss": "cool",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 55
+  },
+  {
+    "video_id": "65403",
+    "gloss": "cool",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 77
+  },
+  {
+    "video_id": "11770",
+    "gloss": "color",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 78
+  },
+  {
+    "video_id": "11773",
+    "gloss": "color",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "11772",
+    "gloss": "color",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "17026",
+    "gloss": "doctor",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 88
+  },
+  {
+    "video_id": "64288",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "17020",
+    "gloss": "doctor",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "64284",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "64287",
+    "gloss": "yes",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "64281",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "64280",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "64283",
+    "gloss": "yes",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 23
+  },
+  {
+    "video_id": "49595",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 81
+  },
+  {
+    "video_id": "49596",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 58
+  },
+  {
+    "video_id": "49597",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 35
+  },
+  {
+    "video_id": "49598",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 48
+  },
+  {
+    "video_id": "49599",
+    "gloss": "school",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "34832",
+    "gloss": "many",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 36
+  },
+  {
+    "video_id": "17733",
+    "gloss": "drink",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "05729",
+    "gloss": "before",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 45
+  },
+  {
+    "video_id": "62988",
+    "gloss": "what",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "17734",
+    "gloss": "drink",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 76
+  },
+  {
+    "video_id": "05230",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "62987",
+    "gloss": "what",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 83
+  },
+  {
+    "video_id": "05727",
+    "gloss": "before",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 74
+  },
+  {
+    "video_id": "05234",
+    "gloss": "basketball",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 80
+  },
+  {
+    "video_id": "38534",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "38532",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 38
+  },
+  {
+    "video_id": "38533",
+    "gloss": "no",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 46
+  },
+  {
+    "video_id": "38530",
+    "gloss": "no",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 47
+  },
+  {
+    "video_id": "14633",
+    "gloss": "dance",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 92
+  },
+  {
+    "video_id": "63214",
+    "gloss": "white",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 62
+  },
+  {
+    "video_id": "41025",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 66
+  },
+  {
+    "video_id": "41026",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 67
+  },
+  {
+    "video_id": "41027",
+    "gloss": "paper",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 33
+  },
+  {
+    "video_id": "41028",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "41029",
+    "gloss": "paper",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "06845",
+    "gloss": "blue",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 73
+  },
+  {
+    "video_id": "58365",
+    "gloss": "thursday",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 59
+  },
+  {
+    "video_id": "66607",
+    "gloss": "thin",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 75
+  },
+  {
+    "video_id": "66606",
+    "gloss": "thin",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 65
+  },
+  {
+    "video_id": "66351",
+    "gloss": "pull",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 54
+  },
+  {
+    "video_id": "63237",
+    "gloss": "who",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 39
+  },
+  {
+    "video_id": "65891",
+    "gloss": "help",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "65890",
+    "gloss": "help",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 61
+  },
+  {
+    "video_id": "28205",
+    "gloss": "how",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 57
+  },
+  {
+    "video_id": "28204",
+    "gloss": "how",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 79
+  },
+  {
+    "video_id": "28201",
+    "gloss": "how",
+    "split": "test",
+    "start_frame": 1,
+    "end_frame": 72
+  },
+  {
+    "video_id": "28203",
+    "gloss": "how",
+    "split": "val",
+    "start_frame": 1,
+    "end_frame": 69
+  },
+  {
+    "video_id": "28202",
+    "gloss": "how",
+    "split": "train",
+    "start_frame": 1,
+    "end_frame": 68
+  }
+]
