@@ -5,7 +5,8 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset
 
-from .augment import add_gaussian_noise, mirror_hand
+from .augment import add_gaussian_noise, mirror_hand, time_jitter
+from .normalize import normalize_sequence
 
 MAX_SEQ_LEN = 64
 
@@ -26,17 +27,21 @@ class WLASLDataset(Dataset):
     def __getitem__(self, idx):
         entry = self.entries[idx]
         landmarks = np.load(self.landmarks_dir / f"{entry['video_id']}.npy")
+        landmarks = normalize_sequence(landmarks)
 
         if self.augment:
             if np.random.rand() < 0.5:
                 landmarks = mirror_hand(landmarks)
+            if np.random.rand() < 0.5:
+                landmarks = time_jitter(landmarks)
             landmarks = add_gaussian_noise(landmarks)
 
-        landmarks = landmarks.reshape(landmarks.shape[0], -1) 
+        landmarks = landmarks.reshape(landmarks.shape[0], -1)
 
         T = landmarks.shape[0]
         if T >= MAX_SEQ_LEN:
-            landmarks = landmarks[:MAX_SEQ_LEN]
+            sample_idx = np.linspace(0, T - 1, MAX_SEQ_LEN).round().astype(int)
+            landmarks = landmarks[sample_idx]
             mask = np.ones(MAX_SEQ_LEN, dtype=bool)
         else:
             pad = np.zeros((MAX_SEQ_LEN - T, landmarks.shape[1]), dtype=np.float32)
