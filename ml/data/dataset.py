@@ -10,6 +10,22 @@ from .normalize import normalize_sequence
 
 MAX_SEQ_LEN = 64
 
+
+def pad_or_sample(landmarks: np.ndarray) -> tuple[np.ndarray, np.ndarray]:
+    """Fit a (T, D) flattened landmark sequence to exactly MAX_SEQ_LEN frames:
+    uniformly subsample if longer, zero-pad (with a mask) if shorter."""
+    T = landmarks.shape[0]
+    if T >= MAX_SEQ_LEN:
+        sample_idx = np.linspace(0, T - 1, MAX_SEQ_LEN).round().astype(int)
+        landmarks = landmarks[sample_idx]
+        mask = np.ones(MAX_SEQ_LEN, dtype=bool)
+    else:
+        pad = np.zeros((MAX_SEQ_LEN - T, landmarks.shape[1]), dtype=np.float32)
+        landmarks = np.concatenate([landmarks, pad], axis=0)
+        mask = np.concatenate([np.ones(T, dtype=bool), np.zeros(MAX_SEQ_LEN - T, dtype=bool)])
+    return landmarks, mask
+
+
 class WLASLDataset(Dataset):
     def __init__(self, landmarks_dir: Path, split_file: Path, split: str, augment: bool = False):
         with open(split_file) as f:
@@ -37,16 +53,7 @@ class WLASLDataset(Dataset):
             landmarks = add_gaussian_noise(landmarks)
 
         landmarks = landmarks.reshape(landmarks.shape[0], -1)
-
-        T = landmarks.shape[0]
-        if T >= MAX_SEQ_LEN:
-            sample_idx = np.linspace(0, T - 1, MAX_SEQ_LEN).round().astype(int)
-            landmarks = landmarks[sample_idx]
-            mask = np.ones(MAX_SEQ_LEN, dtype=bool)
-        else:
-            pad = np.zeros((MAX_SEQ_LEN - T, landmarks.shape[1]), dtype=np.float32)
-            landmarks = np.concatenate([landmarks, pad], axis=0)
-            mask = np.concatenate([np.ones(T, dtype=bool), np.zeros(MAX_SEQ_LEN - T, dtype=bool)])
+        landmarks, mask = pad_or_sample(landmarks)
 
         label = self.label_to_idx[entry["gloss"]]
         return (
