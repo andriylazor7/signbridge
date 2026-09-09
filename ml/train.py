@@ -1,4 +1,5 @@
 import argparse
+from collections import Counter
 from pathlib import Path
 
 import torch
@@ -10,6 +11,14 @@ from tqdm import tqdm
 from data.dataset import WLASLDataset
 from models.bilstm import BiLSTMClassifier
 from models.transformer import TransformerClassifier
+
+
+def class_weights(train_ds: WLASLDataset, num_classes: int) -> torch.Tensor:
+    """Inverse-frequency class weights (normalized to mean 1) to counter the
+    4-12 examples/class imbalance in the WLASL100 train split."""
+    counts = Counter(train_ds.label_to_idx[e["gloss"]] for e in train_ds.entries)
+    weights = torch.tensor([1.0 / counts[i] for i in range(num_classes)])
+    return weights * (num_classes / weights.sum())
 
 
 def train_model(model_name: str, num_epochs: int = 40, batch_size: int = 32, lr: float = 3e-4):
@@ -26,7 +35,7 @@ def train_model(model_name: str, num_epochs: int = 40, batch_size: int = 32, lr:
     model = (BiLSTMClassifier if model_name == "bilstm" else TransformerClassifier)(num_classes=num_classes)
     model.to(device)
 
-    criterion = nn.CrossEntropyLoss()
+    criterion = nn.CrossEntropyLoss(weight=class_weights(train_ds, num_classes).to(device))
 
     optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=1e-4)
 
